@@ -4,3 +4,6 @@ Arduino Bluetooth Arm that utilizes an android application for movement using th
 
 ## Codeblock
 ![Codeblock](Codeblocks.png)
+
+## Schematic Diagram
+![Schematic](Schematic_diagram.png)
